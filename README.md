@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Stewart3techno/Stewart3techno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Animated Greeting -->
+  <h1>Hi 👋, I'm Stewart3techno</h1>
+  <p><em>Building software, exploring new technologies, and turning ideas into code.</em></p>
 
-Here are some ideas to get you started:
+  <!-- Trophy / Statue Showcase -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Stewart3techno&theme=tokyonight&column=6&no-frame=true" alt="Stewart3techno Statues" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### ⚡ About Me
+
+```text
+> Status    : 🟢 Open to collaboration & open-source projects
+> Focus     : Software Development, Backend Systems, & Automation
+> Quote     : "First, solve the problem. Then, write the code."
